@@ -1,2 +1,2 @@
 # Computer-Vision
-This repo contains all my projects and materials related to computer vision
+This repo contains all my projects and materials related to computer vision.
